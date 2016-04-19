@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab03Pomodoro</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_iniciar">Iniciar</string>
+    <string name="btn_parar">Parar</string>
+
+    <string-array name="duracion_corta">
+        <item>3 minutos</item>
+        <item>4 minutos</item>
+        <item>5 minutos</item>
+    </string-array>
+
+    <string-array name="duracion_larga">
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+    </string-array>
+
+</resources>
